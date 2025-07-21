@@ -1,4 +1,17 @@
 #!/usr/bin/node
+/*
+ * DriFiCrack - WiFi Password Cracking Tool
+ * Copyright (c) 2025 ZeltNamizake
+ *
+ * Licensed under the MIT License.
+ * You may obtain a copy of the License at:
+ * https://opensource.org/licenses/MIT
+ *
+ * This tool is for educational purposes only.
+ * Unauthorized use may violate local laws.
+ * Use responsibly.
+ */
+
 const { exec } = require("child_process");
 const readline = require("readline");
 const fs = require("fs");
