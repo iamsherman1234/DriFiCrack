@@ -1,6 +1,6 @@
 {
   "name": "drificrack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WiFi Password Cracking Tool",
   "main": "drificrack.js",
   "author": "ZeltNamizake",
