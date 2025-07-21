@@ -21,7 +21,7 @@ of programs it uses.
 * [__Nodejs__](https://nodejs.org). DriFiCrack is a Javascript script and requires Nodejs to run for terminal.
 * __Root Permission__. Allow root access on Termux so it can run as root.
 
-* Standard android command.
+* Standard command.
   * tsu, cmd wifi, and whoami
 
 ## Install & Execution
