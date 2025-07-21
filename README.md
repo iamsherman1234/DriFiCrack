@@ -18,7 +18,7 @@ of programs it uses.
 
 * [__Termux__](https://f-droid.org/packages/com.termux/). Android does not have a terminal like Linux in general, so the Termux application is needed to run programs.
 * [__Git__](https://git-scm.com/downloads). Required to clone this repository
-* [__Nodejs + NPM__](https://nodejs.org). DriFiCrack is a Javascript script and requires Nodejs to run for terminal.
+* [__Nodejs__](https://nodejs.org). DriFiCrack is a Javascript script and requires Nodejs to run for terminal.
 * __Root Permission__. Allow root access on Termux so it can run as root.
 
 * Standard android command.
@@ -35,7 +35,7 @@ Run the commands below:
 
 `cd DriFiCrack && tsu`
 
-`node drificrack`
+`chmod +x drificrack && ./drificrack`
 
 ## Licensing
 DriFiCrack is licensed under the MIT License. See the LICENSE file for more information.
