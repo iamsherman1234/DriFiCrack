@@ -35,7 +35,9 @@ Run the commands below:
 
 `cd DriFiCrack && tsu`
 
-`chmod +x drificrack && ./drificrack`
+`chmod +x drificrack`
+
+`./drificrack --help`
 
 ## Licensing
 DriFiCrack is licensed under the MIT License. See the LICENSE file for more information.
