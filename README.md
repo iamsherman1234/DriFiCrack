@@ -31,7 +31,7 @@ Run the commands below:
 
 `apt install nodejs git tsu coreutils -y`
 
-`git clone https://github.com/ZeltNamizake/DriFiCrack`
+`git clone https://github.com/iamsherman1234/DriFiCrack`
 
 `cd DriFiCrack && tsu`
 
